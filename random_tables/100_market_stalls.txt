@@ -1,0 +1,37 @@
+100_market_stalls
+"100 Market Stalls"
+Campaign Workbook -- The City
+Dungeon June 2005
+
+Not every stall in the market sells swords and 10-foot poles. The bustling trader's wagons carry all kinds of curiosities and unusual trinkets. Whether the PCs are heading to the potion shop or just passing through the markey square, here are 100 stalls to add a bit of color to their visit. In most cases, no prices are listed. Assume that everything is sold at about the same price as an equivalent item in the <i>Player's Handbook</i>.
+
+d%		Vendor
+01		Tasty meat pies made in the shape of otters. Delicious!
+02		Bows carved with the likenesses of swans. Everyone is buying them!
+03		Giant spider silk, the ideal rope. <i>This is giant spider silk. It comes in a bag, and just sticks to itself, 			and possibly to whomever pulls it out</i>
+04 		Amuse all with my glove-puppet otyughs!
+05		Painted shields of all sizes: you name it, we paint it.
+06		Statues of griffons with moving heads.
+07		Luxury leather carriage seats: keep your seat sweet.
+08		Colored rope, handy for all occasions.
+09		Four-pint pewter mugs carved like dragons, for people with a dragon-like thirst!
+10		Huge candles designed to burn for weeks, very useful.
+11		Spades, shovels, and picks! <i>A proud spade seller who takes insults to his goods personally</i>.
+12		Who dares buy my purple worm whistle?
+13		Outrageously colored velvet robes, the latest rage at court!
+14		Wear a wig and look quite big. <i>Wigs, from functional to the vast and ridiculous</i>.
+15		Scabbards with silver filigree depicting beasts. Every hero needs one!
+16		Foldable large weapon stands: be the ency of your friends.
+17		Stuffed stirges to hurl at your enemies.
+18		Breastplates with gargoyle faces carved on them, all sizes available!
+19		Mulled cider and wine to warm your bones.
+20		Castle cakes. <i>Cakes that look like castles but taste like honey</i>.
+21 		The very latest in belts, gray leather.
+22		Owlbear pelt scarves; you'll be cold without one!
+23		Be the envy of your friends with a dire rat trap!
+24		Lost? Then why not buy a homing badger! Guaranteed to find their way home. <i>They do, an hour after purchase</i>.
+25		Who'll buy my lovely sweet-meats?
+26		A home isn't a home without a hippogriff weathervane.
+27		Cabbages, specially imported. <i>But not really</i>.
+28		Rusty sword? Use my miracle cloth to keep it clean. <i>An oily rag scented with perfume</i>.
+29		Keep beholders from your door with this 

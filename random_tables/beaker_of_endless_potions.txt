@@ -1,0 +1,167 @@
+"Beaker of Endless Potions"
+Campaign Workbook -- The Dungeon
+Dungeon August 2005
+
+Table 1: Appearance
+d%		Appearance
+01-80	Inert
+81-84	Smoking or steaming
+85-89	Fizzing
+90-93	Bubbling
+94-97	Luminous
+98-00	Glowing [Gives off the same amount of light as a candle]
+
+Table 2: Clarity
+d%		Clarity
+01-32	Transparent (clear)
+33-65	Translucent (dull, misty)
+66-00	Opaque (cloudy, creamy)
+
+Table 3: Mixture Variation
+d%		Variation
+01-75	No variation
+76-79	Oily
+80-83	Swirly
+84-86	Encrusted
+87-90	Layered
+91-94	Particles
+95-97	Sediment, grit, or dregs
+98-00	Solids
+
+Oily: There is either an oily layer on top of the potion or the whole potion has an oily consistency.
+Swirly: The potion is made up of two or more different colored fluids that don't fully combine with each other, giving the potion a mixed look.
+Encrusted: A solid or semi-solid layer tops the potion.
+Layered: The potion separates into layers of different colors and/or consistencies. The potion might need to be shaken before being consumed.
+Particles: Dust, flecks, or specks are suspended in the potion or rest on top of it. These particles may sparkle or catch the light.
+Sediment, grit or dregs: Semi-solid or solid matter clusters at the bottom of the potion.
+Solids: Objects float in the potion. Possible examples include pieces of bone, hair, feathers, a worm, or even an eye. Consider the material components of the spell placed in the potion. For instance, a <i>potion of spider climb</i> might have a dead spider at the bottom.
+
+Table 4: Consistency
+d%		Consistency
+01-71	Thing, watery, runny
+72-91	Thick, viscous, syrupy
+92-00	Very thick, glutinous, gooey, gel-like
+
+Table 5: Color
+d%		Color
+01-02	Colorless
+03-04	Pink
+05		Rosy
+06-07	Red
+08		Burgundy
+09		Crimson
+10		Scarlet
+11-12	Maroon
+13-14	Puce
+15-16	Ruby
+17		Vermillion
+18-20	Orange
+21		Salmon
+22		Apricot
+23-24	Yellow
+25		Saffron
+26-27	Golden
+28-29	Chartreuse
+30		Lime green
+31-32	Green
+33		Olive
+34		Emerald
+35-36	Aquamarine
+37-38	Azure
+39-40	Viridian
+41		Turquoise
+42		Cyan
+43-45	Blue
+46-47	Dark blue
+48-49	Cobalt blue
+50-51	Navy blue
+52-53	Purple
+54		Lavender
+55-56	Violet
+57-58	Magenta
+59-60	Indigo
+61		Amethyst
+62-63	Lilac
+64-65	Mauve
+66		Plum
+67-68	Black
+69		Dark
+70-71	Gray
+72		Charcoal
+73-75	White
+76		Pearl
+77-78	Silver
+79-80	Ivory
+81		Tan
+82-83	Amber
+84		Tawny
+85-86	Ochre
+87-89	Brown
+90		Auburn
+91		Copper
+92		Cinnamon
+93		Ginger
+94		Hazel
+95-96	Russet
+97		Sepia
+98-99	Bronze
+100		Dark brown
+
+SAMPLING POTIONS
+Determine the smell and taste of the potion at the same time, remembering that with magic it is possible for something to taste and smell very different.
+
+Table 6a: Strength of Smell
+d%		Strength
+01-15	Odorless
+16-35	Mild
+36-75	Moderate
+76-95	Strong or pungent
+96-00	Overpowering
+
+Table 6b: Type of Smell
+d%		Type
+01-03	Sweet
+04-05	Sour
+06-09	Minty
+10-12	Fishy
+13-15	Flowery
+16-18	Briny
+19-21	Perfumed
+22-24	Citrus
+25-28	Musky
+29-32	Spicy
+33-35	Savory
+36-39	Acrid
+40-45	Sulfuric
+46-53	Antiseptic
+54-61	Foul
+62-67	Fetid
+68-72	Musty
+72-75	Rotten
+76-78	Dank
+79-81	Moldy
+82-84	Miasmic
+85-87	Burnt
+88-90	Metallic
+91-94	Stale
+95-97	Septic
+98-00	Mephitic
+
+Table 7a: Type of Taste
+d%		Strength
+01-23	Sweet, sugary, or luscious
+24-46	Sour, acerbic, or biting
+47-70	Salty, tangy, or briny
+71-94	Bitter, tart, or sharp
+95-00	Similar to smell
+
+Table 7b: Strength of Taste
+d%		Strength
+01-50	Same as smell
+51-60	Tasteless
+61-75	Mild
+76-85	Moderate
+86-95	Strong
+96-00	Overpowering
+
+Optional Rule: Drinking a potion with an overpowering taste may require a Fortitude save (DC 10 + the spell level of the potion's effect) to prevent the drinker from becoming nauseated for 1 minute after consuming it.
