@@ -27,10 +27,9 @@ class Move():
         print("LOGGING: setup through subclass")
         
     def __str__(self):
-        formatted = self.name + ": "
-        formatted += self.description
+        formatted = "{}: \n{}\n".format(self.name, self.description)
         for result in ["10+", "7-9", "6-"]:
-            formatted += str(result) + ": " + str(self.results[result])
+            formatted += "{}: {}".format(result,self.results[result])
         return formatted
         
 class BasicMove(Move):
